@@ -54,8 +54,8 @@ Soil-based IoT sensor data acquisition in real time has been implemented. Fertil
 
 <img align="center" alt="coding" width="700" src="https://github.com/Shiva250503ss/Smart_Field/blob/main/output%20screenshots/LDR_Output.jpg">
 
-## 🚜 Cultivating Excellence
+##  Cultivating Excellence
 
-Join us in this agrarian revolution! To run the Smart Field application locally.
+Join us to bring in a new revolution to the agro industry.
 
 
